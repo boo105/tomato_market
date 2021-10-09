@@ -1,0 +1,28 @@
+.product {
+    width: 31%;
+    height: auto;
+    padding : 1% 1%;
+    cursor: pointer;
+
+    img {
+        width: 100%;
+        height: auto;
+
+        border-radius: 1rem;
+    }
+
+    .info{
+        padding : 0 1%;
+        .title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            padding: 3% 0;
+        }
+
+        .price {
+            color : #FF8A3D;
+            font-weight: 600;
+        }
+
+    }
+}
