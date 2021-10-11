@@ -9,7 +9,7 @@ const Menu = () => {
                 </div>
                 <div className="sign">
                     <button className ="signBtn" onClick={() => window.location.href = "/signIn"}>로그인</button>
-                    <button className ="signBtn">회원가입</button>
+                    <button className ="signBtn"  onClick={() => window.location.href = "/signUp"}>회원가입</button>
                 </div>
             </div>
             <div className="category innerContainer">
