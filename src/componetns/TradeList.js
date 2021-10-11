@@ -22,7 +22,57 @@ const testTrades = [
         "image" : defaultImg,
         "title" : "엘지디오스 김치냉장고",
         "price" : 300000
-    }
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
+    {
+        "image" : defaultImg,
+        "title" : "엘지디오스 김치냉장고",
+        "price" : 300000
+    },
 
 ];
 
